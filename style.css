@@ -7,7 +7,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #145183;
+    background-color: #181818;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -17,7 +17,7 @@ body {
 
 .cabecalho-imagem{
     width: 10%;
-}
+}O campo é essencial para as cidades, fornecendo alimentos, matérias-primas e recursos naturais. Ele sustenta a produção agrícola e pecuária, garantindo o abastecimento de alimentos frescos. Além disso, as áreas rurais preservam ecossistemas e biodiversidade, contribuem para a sustentabilidade e oferecem destinos de lazer e turismo. As tradições culturais do campo enriquecem o patrimônio das cidades. Assim, o campo e a cidade formam uma relação interdependente crucial para o desenvolvimento equilibrado e sustentável.
 
 .cabecalho-lista-item{
     display: inline-block;
@@ -29,13 +29,13 @@ body {
     text-decoration: none;
     color: white;
 }
-
+O campo é essencial para as cidades, fornecendo alimentos, matérias-primas e recursos naturais. Ele sustenta a produção agrícola e pecuária, garantindo o abastecimento de alimentos frescos. Além disso, as áreas rurais preservam ecossistemas e biodiversidade, contribuem para a sustentabilidade e oferecem destinos de lazer e turismo. As tradições culturais do campo enriquecem o patrimônio das cidades. Assim, o campo e a cidade formam uma relação interdependente crucial para o desenvolvimento equilibrado e sustentável.
 .escola-imagem{
     width: 25%;
 }
 
 .escola{
-    background-image: linear-gradient(#145183,#2C94EB);
+    background-image: linear-gradient(#181818,#773BB8);
     color:white;
     display: flex;
     justify-content: center;
